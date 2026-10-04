@@ -27,3 +27,7 @@ Thumbs.db
 # Logs
 *.log
 npm-debug.log*
+
+# Old development backups
+frontend/src/App_backup*.jsx
+frontend/src/App_redesign_bad.jsx
